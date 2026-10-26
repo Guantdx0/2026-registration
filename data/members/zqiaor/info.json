@@ -1,0 +1,9 @@
+{
+  "name": "zqiaor", 
+  "bio": "这是一个人，大概吧",
+  "tags": ["Linux", "Web", "Rust"], 
+  "social": {
+    "github": "zqiaor",
+    "blog": "Unknown"
+  }
+}
